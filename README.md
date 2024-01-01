@@ -1,0 +1,1 @@
+tl.vhd and tlv.vhd are the top level and top level verify wrapper respectively. Each RTL block contains its testbench. A pll ip, two port RAM ip and a ROM ip were used to output a 100MHz clock for the interleaver and FEC, streaming and pipelining and performing the verify function respectively. 
